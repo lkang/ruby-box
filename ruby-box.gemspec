@@ -27,6 +27,7 @@ Gem::Specification.new do |s|
     "lib/ruby-box.rb",
     "lib/ruby-box/api.rb",
     "lib/ruby-box/exceptions.rb",
+    "ruby-box.gemspec",
     "spec/api_spec.rb",
     "spec/helper/account.example",
     "spec/helper/account.rb",
